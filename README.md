@@ -10,3 +10,7 @@ Extraction from: [Amazon_Reviews](https://s3.amazonaws.com/amazon-reviews-pds/ts
 
 Let's count rows:
 ![Count_Rows](https://github.com/greaterpablo/big-data-challenge/blob/main/Images/vine01.png)
+
+Now, we have to tranform it into a SQL schema:
+
+[SQL_SCHEMA](https://github.com/greaterpablo/big-data-challenge/blob/main/Resources/schema.sql)
