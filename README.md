@@ -54,7 +54,7 @@ Number of paid reviews | 94
 Number of paid five star reviews | 48
 Percantage of paid reviews that are five stars | 51.06%
 
-* Percentage of 5-Stars among non-Vine reviewers
+* Percentage of 5-Stars reviews among non-Vine reviewers
 
 Unpaid Reviews | #
 ------------- | -
