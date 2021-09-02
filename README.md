@@ -31,6 +31,10 @@ But are Vine reviews truly trustworthy? Your task is to investigate whether Vine
 
 We need to Filter Votes
 
+star_rating | helpful_votes | total_votes | vine | verified_purchase
+----------- | ------------- | ----------- | ---- | -----------------
+5 | 0 | 0 | N | Y 
+
 Now to describe Stats 
 
 Som statics: 
