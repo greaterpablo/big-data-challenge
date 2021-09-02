@@ -61,3 +61,5 @@ Unpaid Reviews | #
 Number of unpaid reviews | 40471
 Number of unpaid five star reviews | 15663
 Percantage of paid reviews that are five stars | 38.7%
+
+So we can conclude that paid reviews are above unpaid reviews into vine's program
