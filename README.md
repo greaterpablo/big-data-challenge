@@ -10,7 +10,7 @@ Extraction from: [Amazon_Reviews](https://s3.amazonaws.com/amazon-reviews-pds/ts
 
 Let's count rows:
 
-Videogames reviews | 1785997
+Videogames reviews | 1,785,997
 ------------------ | -------
 
 Now, we have to tranform it into a SQL schema with this frame:
