@@ -37,8 +37,16 @@ star_rating | helpful_votes | total_votes | vine | verified_purchase
 
 Now to describe Stats 
 
+summary | star_rating | helpful_votes | total_votes | vine | verified_purchase
+------- | ----------- | ------------- | ----------- | ---- | -----------------
+count | 94 | 94 | 94 | 94 | 94
+mean | 4.202127659574468 | 54.59574468085106 | 61.787234042553195 | null | null
+stddev | 0.9791348741656414 | 65.26098459822538 | 68.90976994895392 | null | null
+min | 1 | 111 | 102 | Y | N
+max | 5 | 97 | 88 | Y | N
+
 Som statics: 
-* Percentage of 5-Stars reviews among Vine Reviews
+* Percentage of 5-Stars reviews among Vine reviews
 
 Vine Reviewrs | #
 ------------- | -
@@ -46,5 +54,10 @@ Number of paid reviews | 94
 Number of paid five star reviews | 48
 Percantage of paid reviews that are five stars | 51.06%
 
-* Percentage of 5-Stars among Vine-Reviewers
+* Percentage of 5-Stars among non-Vine reviewers
 
+Unpaid Reviewrs | #
+------------- | -
+Number of unpaid reviews | 40471
+Number of unpaid five star reviews | 15663
+Percantage of paid reviews that are five stars | 38.7%
