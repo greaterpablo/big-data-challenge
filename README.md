@@ -18,3 +18,20 @@ Now, we have to tranform it into a SQL schema:
 * Vine table
 
 [SQL_SCHEMA](https://github.com/greaterpablo/big-data-challenge/blob/main/Resources/schema.sql)
+
+Now push to AWS RDS instance
+
+Look at the [Solution](https://github.com/greaterpablo/big-data-challenge/blob/main/Level-1/level_one_solution.ipynb)
+
+In Amazon's Vine program, reviewers receive free products in exchange for reviews.
+
+But are Vine reviews truly trustworthy? Your task is to investigate whether Vine reviews are free of bias. Use either PySpark or—for an extra challenge—SQL to analyze the data.
+
+We need to Filter Votes
+
+Now to describe Stats 
+
+Som statics: 
+* Percentage of 5-Stars reviews among Vine Reviews
+* Percentage of 5-Stars among Vine-Reviewers
+
