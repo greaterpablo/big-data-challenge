@@ -45,7 +45,7 @@ stddev | 0.9791348741656414 | 65.26098459822538 | 68.90976994895392 | null | nul
 min | 1 | 111 | 102 | Y | N
 max | 5 | 97 | 88 | Y | N
 
-Som statics: 
+Some statics: 
 * Percentage of 5-Stars reviews among Vine reviews
 
 Vine Reviews | #
