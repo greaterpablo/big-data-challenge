@@ -48,7 +48,7 @@ max | 5 | 97 | 88 | Y | N
 Som statics: 
 * Percentage of 5-Stars reviews among Vine reviews
 
-Vine Reviewrs | #
+Vine Reviews | #
 ------------- | -
 Number of paid reviews | 94
 Number of paid five star reviews | 48
@@ -56,7 +56,7 @@ Percantage of paid reviews that are five stars | 51.06%
 
 * Percentage of 5-Stars among non-Vine reviewers
 
-Unpaid Reviewrs | #
+Unpaid Reviews | #
 ------------- | -
 Number of unpaid reviews | 40471
 Number of unpaid five star reviews | 15663
