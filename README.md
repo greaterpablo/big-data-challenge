@@ -13,4 +13,8 @@ Let's count rows:
 
 Now, we have to tranform it into a SQL schema:
 
+* Product table
+* Customers table
+* Vine table
+
 [SQL_SCHEMA](https://github.com/greaterpablo/big-data-challenge/blob/main/Resources/schema.sql)
