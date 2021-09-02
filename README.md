@@ -9,7 +9,7 @@ First of All we have to Extract, Transform and Load the data:
 Extraction from: [Amazon_Reviews](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 
 Let's count rows:
-![Count_Rows](https://github.com/greaterpablo/big-data-challenge/blob/main/Images/vine01.png)
+
 
 Now, we have to tranform it into a SQL schema:
 
@@ -33,5 +33,12 @@ Now to describe Stats
 
 Som statics: 
 * Percentage of 5-Stars reviews among Vine Reviews
+
+Vine Reviewrs | #
+------------- | -
+Number of paid reviews | 94
+Number of paid five star reviews | 48
+Percantage of paid reviews that are five stars | 51.06%
+
 * Percentage of 5-Stars among Vine-Reviewers
 
